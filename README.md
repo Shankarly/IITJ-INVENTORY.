@@ -36,5 +36,5 @@ Request items for issue, set due dates, issue items, return etc.
 ## Team
 | Name                                            | Year      | Department                       |
 | ----------------------------------------------- | --------- | -------------------------------- |
-| [Manish Jindal](https://github.com/manishjindal24444) | Senior | Elecrical Enginnering |
+| [ShankarLal Yadav](https://github.com/Shankarly) | Senior | BioEnginnering |
 | [Neeraj Anand](https://github.com/neeraj-2) | Senior | Computer Science And Engineering |
